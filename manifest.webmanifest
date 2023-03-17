@@ -1,0 +1,14 @@
+{
+  "background_color": "blue",
+  "description": "Math",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "bitcoin.png",
+      "type": "image/png"
+    }
+  ],
+  "name": "math",
+  "short_name": math",
+  "start_url": "index.html"
+}
